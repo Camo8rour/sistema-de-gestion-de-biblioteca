@@ -1,4 +1,4 @@
-package com.devsenior.casemobas;
+package com.devsenior.casemobas.view;
 
 public class Main {
     public static void main(String[] args) {
